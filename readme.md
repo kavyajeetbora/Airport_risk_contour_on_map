@@ -16,11 +16,11 @@ Showing the risk contours for Frankfurt Airport, Germany:
         <td>Demo</td>
     </tr>
     <tr>
-        <td><img src="outputs\Picture1.png"/></td>
-        <td><img src="outputs\Picture2.gif"/></td>
+        <td><img src="Picture1.png"/></td>
+        <td><img src="Picture2.gif"/></td>
     </tr>
     <tr>
-        <td><img src="outputs\Picture3.jpg"/></td>
-        <td><img src="outputs\Picture4.gif"/></td>
+        <td><img src="Picture3.jpg"/></td>
+        <td><img src="Picture4.gif"/></td>
     </tr>
 </table>
