@@ -13,14 +13,21 @@ Showing the risk contours for Frankfurt Airport, Germany:
 <table>
     <tr>
         <td>Image</td>
-        <td>Demo</td>
     </tr>
     <tr>
         <td><img src="Picture1.png"/></td>
-        <td><img src="Picture2.gif"/></td>
     </tr>
     <tr>
+        <td><img src="Picture2.gif"/></td>
+    </tr>
+</table>
+Showing the risk contours for Dallas Airport, USA:
+
+<table>
+    <tr>
         <td><img src="Picture3.jpg"/></td>
+    </tr>
+    <tr>
         <td><img src="Picture4.gif"/></td>
     </tr>
 </table>
