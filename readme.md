@@ -8,26 +8,34 @@
 
 Demo:
 
-Showing the risk contours for Frankfurt Airport, Germany:
+**Showing the risk contours for Frankfurt Airport, Germany:**
+<table>
+    <tr>
+        <td>Image</td>
+    </tr>
+    <tr>    
+        <td><img src="https://user-images.githubusercontent.com/38955297/191918296-37a9912e-cc1e-4df7-99ba-524af48778f4.png"/></td>
+    </tr>
+    <tr>
+        <td>Demo:</td>
+    </tr>
+    <tr>
+        <td><img src="https://user-images.githubusercontent.com/38955297/191918360-472ed451-9403-4a14-bb4b-c017a59c991c.gif"/></td>
+    </tr>
+</table>
 
+**Showing the risk contours for Dallas Airport, USA:**
 <table>
     <tr>
         <td>Image</td>
     </tr>
     <tr>
-        <td><img src="Picture1.png"/></td>
+        <td><img src="https://user-images.githubusercontent.com/38955297/191918437-7b0814ee-0378-4ede-b4d1-311bfbb3b5dc.jpg"/></td>
     </tr>
     <tr>
-        <td><img src="Picture2.gif"/></td>
+        <td>Demo</td>
     </tr>
-</table>
-Showing the risk contours for Dallas Airport, USA:
-
-<table>
-    <tr>
-        <td><img src="Picture3.jpg"/></td>
-    </tr>
-    <tr>
-        <td><img src="Picture4.gif"/></td>
+    <tr>    
+        <td><img src="https://user-images.githubusercontent.com/38955297/191918647-654ff41e-6936-4502-b05f-ae55e6a8de2c.gif"/></td>
     </tr>
 </table>
